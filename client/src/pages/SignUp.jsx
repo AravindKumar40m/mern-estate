@@ -36,6 +36,7 @@ const SignUp = () => {
             return;
           }
         });
+      setLoading(false);
     } catch (error) {
       setLoading(false);
       setError(error.message);
