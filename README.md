@@ -2,8 +2,6 @@
 
 A real-estate listings app where users can sign in, post properties for rent or sale, and search listings with filters.
 
-**Live:** https://mern-estate-s6le.onrender.com/ (free hosting - the first load can be slow)
-
 ## Features
 - Sign up and sign in with email, or with **Google** (Firebase Auth)
 - JWT authentication with protected routes
